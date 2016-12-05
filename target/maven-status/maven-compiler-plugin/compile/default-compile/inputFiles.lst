@@ -1,0 +1,16 @@
+/home/mdy/workspace/jcmc/src/main/java/jcmc/Example.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/ExampleTransformed.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/ParseClassFile.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/ClassParseVisitor.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/t.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/t1.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/ClassTransformVisitor.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/CopyClassFile.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/TransformClassFile.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/Agent.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/MethodTransformVisitor.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/CoverageCalculation.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/GenerateClassFile.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/info.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/DeleteCoverageInformation.java
+/home/mdy/workspace/jcmc/src/main/java/jcmc/Generated.java

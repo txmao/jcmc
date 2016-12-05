@@ -1,0 +1,17 @@
+jcmc/CopyClassFile.class
+jcmc/Agent.class
+jcmc/ClassTransformVisitor.class
+jcmc/Example.class
+jcmc/TransformClassFile.class
+jcmc/DeleteCoverageInformation.class
+jcmc/Generated.class
+jcmc/t1.class
+jcmc/ParseClassFile.class
+jcmc/Agent$1.class
+jcmc/CoverageCalculation.class
+jcmc/MethodTransformVisitor.class
+jcmc/t.class
+jcmc/ExampleTransformed.class
+jcmc/info.class
+jcmc/ClassParseVisitor.class
+jcmc/GenerateClassFile.class
