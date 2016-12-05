@@ -1,5 +1,6 @@
 # jcmc
 # Java Class-File Manupulation and Coverage-Collection
+# [url] https://github.com/txmao/jcmc.git
 #
 # Preparations needed before using jcmc tool:
 # 1. in MethodTransformVisitor.java file, in line 45 & line 82, change "~/Z_coverage/c_path.txt" to your specified "directory/c_path.txt"
